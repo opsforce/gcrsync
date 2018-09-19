@@ -27,7 +27,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/mritd/gcrsync/pkg/gcrsync"
+	"github.com/opsforce/gcrsync/pkg/gcrsync"
 
 	"github.com/spf13/cobra"
 )

@@ -22,7 +22,7 @@
 
 package main
 
-import "github.com/mritd/gcrsync/cmd"
+import "github.com/opsforce/gcrsync/cmd"
 
 func main() {
 	cmd.Execute()

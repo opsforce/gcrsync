@@ -33,7 +33,7 @@ import (
 
 	"github.com/Sirupsen/logrus"
 
-	"github.com/mritd/gcrsync/pkg/utils"
+	"github.com/opsforce/gcrsync/pkg/utils"
 
 	"github.com/docker/docker/api/types"
 )
